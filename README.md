@@ -1,4 +1,4 @@
-# 🎬 Cinemate
+# Cinemate
 
 Cinemate is a Python-based web application that simulates an online movie platform. The main goal of this project is to understand how a real-world web application works by combining backend logic with a simple and clean frontend interface.
 
@@ -8,7 +8,7 @@ This project was developed as an academic learning project to strengthen practic
 
 ---
 
-## 🚀 Features
+## Features
 
 - Movie recommendation logic
 - Simple and user-friendly web interface
@@ -18,7 +18,7 @@ This project was developed as an academic learning project to strengthen practic
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Backend:** Python  
 - **Frontend:** HTML, CSS  
