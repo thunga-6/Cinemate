@@ -27,3 +27,47 @@ This project was developed as an academic learning project to strengthen practic
 
 ---
 
+## How to Run the Project Locally
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/thunga-6/Cinemate.git
+````
+
+### 2. Navigate to the project folder
+
+```bash
+cd Cinemate
+```
+
+### 3. Create a virtual environment
+
+```bash
+python -m venv .venv
+```
+
+### 4. Activate the virtual environment (Windows)
+
+```bash
+.venv\Scripts\activate
+```
+
+### 5. Install required dependencies
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+### 6. Run the application
+
+```bash
+python app.py
+```
+
+### 7. Open in browser
+
+```
+http://127.0.0.1:5000
+```
+
+
