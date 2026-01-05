@@ -27,5 +27,3 @@ This project was developed as an academic learning project to strengthen practic
 
 ---
 
-## 📂 Project Structure
-
